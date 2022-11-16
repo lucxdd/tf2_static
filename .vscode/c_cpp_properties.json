@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/lcx/Livox/livox_ros_driver/devel/include/**",
+        "/home/lcx/lcx_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/lcx/lcx_ws/src/A-LOAM/include/**",
+        "/home/lcx/tools/src/srv_tools/bag_tools/include/**",
+        "/home/lcx/Livox/livox_ros_driver/src/FAST_LIO/include/**",
+        "/home/lcx/lcx_ws/src/ganzhi3/include/**",
+        "/home/lcx/lcx_ws/src/LeGO-LOAM/LeGO-LOAM/include/**",
+        "/home/lcx/lcx_ws/src/LIO-SAM/include/**",
+        "/home/lcx/lcx_ws/src/myslam/include/**",
+        "/home/lcx/git/src/tf2_static/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
